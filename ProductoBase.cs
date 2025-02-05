@@ -2,7 +2,7 @@
 {
     internal class ProductoBase
     {
-
+        //Relampago de voltaje, comentario agregado para probar github
         public int id { get; set; }
         public string nombre { get; set; }
 
